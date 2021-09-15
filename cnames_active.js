@@ -1981,6 +1981,7 @@ var cnames_active = {
   "plotyxd": "plotyxd.github.io",
   "pnpm": "pnpm.netlify.app",
   "pod": "mileallen.github.io/pod",
+  "portafolioDeIsac": "https://isacxz13.github.io/Repo/",
   "podivilov": "podivilov.github.io",
   "poegems": "max-arias.github.io/poeGems", // noCF? (don´t add this in a new PR)
   "pogo": "aaronduino.github.io/pogo",
